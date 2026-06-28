@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1100&lines=Embedded+Software+Developer;Automotive+Embedded+Developer;Linux+%7C+C+%7C+C%2B%2B+%7C+Python+%7C+ARM;Firmware+Development+%7C+Linux+Debugging+%7C+Unit+Testing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1100&lines=Embedded+Software+Developer;Embedded+Software+Developer;Linux+%7C+C+%7C+C%2B%2B+%7C+Python+%7C+ARM;Firmware+Development+%7C+Linux+Debugging+%7C+Unit+Testing" />
 </p>
 
 <p align="center">
